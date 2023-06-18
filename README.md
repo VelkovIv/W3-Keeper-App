@@ -12,6 +12,10 @@ Initial Screen
 Adding a Note
 ![image](https://github.com/VelkovIv/W3-Keeper-App/assets/114020789/8f824e1f-d327-4482-b4c1-6661f45fad6d)
 
+Note form
+![image](https://github.com/VelkovIv/W3-Keeper-App/assets/114020789/ae302ae0-7b1b-492a-bd30-306f2c75d61a)
+
+
 
 
 To learn more before you start working with dkeeper, see the following documentation available online:
