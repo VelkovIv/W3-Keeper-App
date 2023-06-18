@@ -6,6 +6,12 @@ To get started, you might want to explore the project directory structure and th
 
 ## ScreenShots
 
+Initial Screen
+![image](https://github.com/VelkovIv/W3-Keeper-App/assets/114020789/e546de01-e54e-47fd-97d7-c407774a0c59)
+
+Adding a Note
+![image](https://github.com/VelkovIv/W3-Keeper-App/assets/114020789/8f824e1f-d327-4482-b4c1-6661f45fad6d)
+
 
 
 To learn more before you start working with dkeeper, see the following documentation available online:
